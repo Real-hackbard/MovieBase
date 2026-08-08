@@ -29,3 +29,11 @@ The file tree can be created or edited as desired and is not subject to any pred
 
 # :wrench: Remodeling:
 The files for entries have sequential filenames, making it very easy to reconfigure the program in any direction. No special features or file formats are required to display the content of the entries differently.
+
+Das Template dient dazu, dem Programm eine neue Vorlage zu geben, wenn ein anderes Thema benötigt wird.
+
+</br>
+
+<img src="https://github.com/user-attachments/assets/98a738ba-2259-4c27-b796-a73cb322dcbe" />
+
+</br>
