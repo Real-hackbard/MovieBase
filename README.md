@@ -88,12 +88,13 @@ The images are located in ImageList2 and are selected based on which star was cl
 
 </br>
 
-[Starred.bmp](https://github.com/user-attachments/files/30850336/Starred.bmp)  Rated
+<img src="https://github.com/user-attachments/assets/7ab6c8de-2f51-4493-84ac-23fd1571459d" />  Rated
 
 </br>
 
-[Starred none.bmp](https://github.com/user-attachments/files/30850344/Starred.none.bmp) not Rated
+<img src="https://github.com/user-attachments/assets/62179820-1d3f-4797-9723-25a9b3b74045" /> not Rated
 
 </be>
+
 
 
