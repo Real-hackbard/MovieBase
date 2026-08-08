@@ -26,3 +26,6 @@ There is a template and a rating system for the content. The template is editabl
 The database is a stored, systematic collection of data. It can contain any type of data, including words, numbers, images, videos, and files that can be loaded into a RichEdit control. No formats, drivers, or encrypted content requiring subsequent integration are used.
 
 The file tree can be created or edited as desired and is not subject to any predefined requirements.
+
+# :wrench: Remodeling:
+The files for entries have sequential filenames, making it very easy to reconfigure the program in any direction. No special features or file formats are required to display the content of the entries differently.
