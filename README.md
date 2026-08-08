@@ -84,4 +84,16 @@ This allows the size of the cover list to be reduced and the images to be loaded
 # :star: Rating
 The entries can be rated using stars. This involves incorporating a DAT file that contains a value (0–5). This is helpful for assigning importance or distinctiveness to entries.
 
-The images are located in ImageList2 and are selected based on which star was clicked.
+The images are located in ImageList2 and are selected based on which star was clicked. If, for example, the third star is selected, images 1–3 are loaded as well; the same applies in reverse.
+
+</br>
+
+[Starred.bmp](https://github.com/user-attachments/files/30850336/Starred.bmp)  Rated
+
+</br>
+
+[Starred none.bmp](https://github.com/user-attachments/files/30850344/Starred.none.bmp) not Rated
+
+</be>
+
+
