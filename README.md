@@ -83,3 +83,5 @@ This allows the size of the cover list to be reduced and the images to be loaded
 
 # :star: Rating
 The entries can be rated using stars. This involves incorporating a DAT file that contains a value (0–5). This is helpful for assigning importance or distinctiveness to entries.
+
+The images are located in ImageList2 and are selected based on which star was clicked.
