@@ -78,3 +78,8 @@ Various formats can be loaded, but all images are integrated into the database i
 </br>
 
 This allows the size of the cover list to be reduced and the images to be loaded into the program more quickly.
+
+</br>
+
+# :star: Rating
+The entries can be rated using stars. This involves incorporating a DAT file that contains a value (0–5).
