@@ -14,5 +14,10 @@ This is a simple implementation involving related files that function as a datab
 
 The program is suitable for a wide range of topics and can also be customized. In this instance, I used it for a movie list. Files are managed in three different folders and accessed or removed together.
 
+</br>
 
+<img src="https://github.com/user-attachments/assets/ea37042c-5f90-41b6-b020-9824e28e025a" />
+
+</br>
+</br>
 
