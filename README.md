@@ -37,3 +37,6 @@ The template serves to provide the program with a new layout when a different th
 <img src="https://github.com/user-attachments/assets/98a738ba-2259-4c27-b796-a73cb322dcbe" />
 
 </br>
+</br>
+
+The content of the entries can be written to any Delphi component, as it is stored simply as text. However, the URL links are designed specifically for the RichEdit component.
