@@ -41,8 +41,12 @@ The template serves to provide the program with a new layout when a different th
 
 The content of the entries can be written to any Delphi component, as it is stored simply as text. However, the URL links are designed specifically for the RichEdit component.
 
+</br>
+
 # :wrench: Backup
 The file tree can be saved as a file and reloaded. However, the contents of the entries cannot (yet) be saved. Since the content can vary, this topic also addresses the form in which this must take place.
+
+</br>
 
 # :wrench: Cover
 An image (cover) can be added to each entry, and the program also includes a few related features. To prevent the image database from becoming excessively large, the program can adjust the dimensions and file size of the images.
