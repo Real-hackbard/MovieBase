@@ -21,3 +21,4 @@ The program is suitable for a wide range of topics and can also be customized. I
 </br>
 </br>
 
+There is a template and a rating system for the content. The template is editable and is used for every new entry. Links can also be saved within the text content and will function as such.
