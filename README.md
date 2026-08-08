@@ -82,4 +82,4 @@ This allows the size of the cover list to be reduced and the images to be loaded
 </br>
 
 # :star: Rating
-The entries can be rated using stars. This involves incorporating a DAT file that contains a value (0–5).
+The entries can be rated using stars. This involves incorporating a DAT file that contains a value (0–5). This is helpful for assigning importance or distinctiveness to entries.
