@@ -10,7 +10,7 @@
 
 </br>
 
-
+This is a simple implementation involving related files that function as a database. The program works exclusively with files and their contents, with the nature of the content being irrelevant.
 
 
 
