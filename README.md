@@ -45,4 +45,28 @@ The content of the entries can be written to any Delphi component, as it is stor
 The file tree can be saved as a file and reloaded. However, the contents of the entries cannot (yet) be saved. Since the content can vary, this topic also addresses the form in which this must take place.
 
 # :wrench: Cover
-Für jeden Eintrag lässt sich ein Bild (Cover) hinzufügen und er hat auch ein paar Funktionen. Damit die Datenbank der Grafiken nicht übergroß wird, kann das Programm die Bilder in ihrer Größe und Dateigröße anpassen.
+An image (cover) can be added to each entry, and the program also includes a few related features. To prevent the image database from becoming excessively large, the program can adjust the dimensions and file size of the images.
+
+Various formats can be loaded, but all images are integrated into the database in JPG format, which can then be adjusted using this code.
+
+</br>
+
+```pascal
+jpg := TJPEGImage.Create;
+  bmp := TBitmap.Create;
+  try
+    // copy image pixel to memory
+    jpg.Assign(Image9.Picture.Graphic);
+    bmp.Width := 136;   // new width
+    bmp.Height := 206;  // new height
+    // draw jpg to bitmap
+    bmp.Canvas.StretchDraw(Rect(0, 0, 136, 206), jpg);
+    // copy bitmap to memory
+    jpg.Assign(bmp);
+    // copy pixel from memory back to image
+    Image9.Picture.Assign(jpg);
+  finally
+    bmp.Free;
+    jpg.Free;
+  end;
+```
