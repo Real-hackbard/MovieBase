@@ -86,8 +86,6 @@ The entries can be rated using stars. This involves incorporating a DAT file tha
 
 The images are located in ImageList2 and are selected based on which star was clicked. If, for example, the third star is selected, images 1–3 are loaded as well; the same applies in reverse.
 
-</br>
-
 <img src="https://github.com/user-attachments/assets/7ab6c8de-2f51-4493-84ac-23fd1571459d" />  Rated | <img src="https://github.com/user-attachments/assets/62179820-1d3f-4797-9723-25a9b3b74045" /> not Rated
 
 </be>
