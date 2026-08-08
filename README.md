@@ -22,3 +22,5 @@ The program is suitable for a wide range of topics and can also be customized. I
 </br>
 
 There is a template and a rating system for the content. The template is editable and is used for every new entry. Links can also be saved within the text content and will function as such. The template can be customized for various topics to separate content related to film, office work, or music.
+
+The database is a stored, systematic collection of data. It can contain any type of data, including words, numbers, images, videos, and files that can be loaded into a RichEdit control. No formats, drivers, or encrypted content requiring subsequent integration are used.
