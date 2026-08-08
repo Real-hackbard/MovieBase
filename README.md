@@ -43,3 +43,6 @@ The content of the entries can be written to any Delphi component, as it is stor
 
 # :wrench: Backup
 The file tree can be saved as a file and reloaded. However, the contents of the entries cannot (yet) be saved. Since the content can vary, this topic also addresses the form in which this must take place.
+
+# :wrench: Cover
+Für jeden Eintrag lässt sich ein Bild (Cover) hinzufügen und er hat auch ein paar Funktionen. Damit die Datenbank der Grafiken nicht übergroß wird, kann das Programm die Bilder in ihrer Größe und Dateigröße anpassen.
