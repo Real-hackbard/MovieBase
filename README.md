@@ -65,7 +65,7 @@ Various formats can be loaded, but all images are integrated into the database i
     bmp.Height := 206;  // new height
     // draw jpg to bitmap
     bmp.Canvas.StretchDraw(Rect(0, 0, 136, 206), jpg);
-    // copy bitmap to memory
+    // copy bitmap to jpg
     jpg.Assign(bmp);
     // copy pixel from memory back to image
     Image9.Picture.Assign(jpg);
