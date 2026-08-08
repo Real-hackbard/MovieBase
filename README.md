@@ -74,3 +74,7 @@ jpg := TJPEGImage.Create;
     jpg.Free;
   end;
 ```
+
+</br>
+
+This allows the size of the cover list to be reduced and the images to be loaded into the program more quickly.
