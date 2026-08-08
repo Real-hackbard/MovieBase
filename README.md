@@ -56,7 +56,7 @@ Various formats can be loaded, but all images are integrated into the database i
 </br>
 
 ```pascal
-jpg := TJPEGImage.Create;
+  jpg := TJPEGImage.Create;
   bmp := TBitmap.Create;
   try
     // copy image pixel to memory
