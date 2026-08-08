@@ -30,7 +30,7 @@ The file tree can be created or edited as desired and is not subject to any pred
 # :wrench: Remodeling:
 The files for entries have sequential filenames, making it very easy to reconfigure the program in any direction. No special features or file formats are required to display the content of the entries differently.
 
-The template serves to provide the program with a new layout when a different theme is required.
+The template serves to provide the program with a new layout when a different theme is required. Program name as the subject and the template storage location displayed when a new entry is created.
 
 </br>
 
